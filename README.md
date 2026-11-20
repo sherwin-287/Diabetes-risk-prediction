@@ -1,7 +1,7 @@
 # Diabetes Risk Prediction Using Machine Learning
 
 BITSF464 Machine Learning – Phase 2 code submission
-Sherwin Gummadi · Sreya Manoj · Shaikh Abdul Faheem
+Sherwin Gummadi 
 
 This project predicts diabetes risk from clinical measurements. It compares Logistic Regression, Random Forest,
 Gradient Boosting and XGBoost under 5-fold stratified cross-validation, with and without SMOTE, explains the best
