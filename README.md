@@ -12,6 +12,21 @@ model with SHAP, and includes a small Streamlit prototype (risk calculator plus 
 
 ---
 
+## Key results
+
+| Metric | Value |
+| ------ | ----- |
+| Dataset | 500 synthetic patients (37.2% diabetic) |
+| Best model | Logistic Regression |
+| Cross-validated ROC-AUC (5-fold, stratified) | 0.802 ± 0.035 |
+| Other models (cross-validated ROC-AUC) | 0.771 to 0.784 (Random Forest, Gradient Boosting, XGBoost) |
+| Hold-out test ROC-AUC (100 patients) | 0.833 |
+| Hold-out recall / precision | 0.649 / 0.774 |
+| Effect of SMOTE | Recall up by 0.08 to 0.14 for every model |
+| Most influential feature (SHAP) | BMI |
+
+The data is synthetic, so these results do not establish clinical validity.
+
 ## 1. Contents
 
 | File | What it is |
