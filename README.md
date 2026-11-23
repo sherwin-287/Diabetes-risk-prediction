@@ -75,10 +75,10 @@ The data is synthetic, so these results do not establish clinical validity.
 ## 3. How to run
 
 ### A. Notebooks in Google Colab (recommended)
-1. Go to <https://colab.research.google.com> → **File → Upload notebook**, and choose a notebook from `notebooks/`.
-2. Choose **Runtime → Run all**.
-3. When asked, upload `synthetic_diabetes_dataset.xlsx`. The first cell installs `imbalanced-learn` and `shap`.
-4. Run time is a few minutes (Random Forest and XGBoost run 8 configurations × 5 folds).
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sherwin-287/Diabetes-risk-prediction/blob/main/01_EDA_and_initial_models.ipynb) 01: EDA and initial models
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sherwin-287/Diabetes-risk-prediction/blob/main/02_results_for_article_with_outputs.ipynb) 02: Results for the article
 
 ### B. Notebooks on your own computer
 ```
