@@ -29,13 +29,13 @@ model with SHAP, and includes a small Streamlit prototype (risk calculator plus 
 
 ![Step 1: clinical risk calculator](app_step1.png)
 
-![Step 2: experimental face scan](images/app_step2.png)
+![Step 2: experimental face scan](app_step2.png)
 
 ### Model results
 
-![Cross-validated model comparison](images/fig4_cv_comparison.png)
+![Cross-validated model comparison](fig4_cv_comparison.png)
 
-![SHAP feature importance](images/fig7a_shap_summary.png)
+![SHAP feature importance](fig7a_shap_summary.png)
 
 ### Dataset
 - 500 patients, 186 diabetic (37.2%) and 314 non-diabetic (62.8%).
