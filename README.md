@@ -16,8 +16,8 @@ model with SHAP, and includes a small Streamlit prototype (risk calculator plus 
 
 | File | What it is |
 |---|---|
-| `notebooks/01_EDA_and_initial_models.ipynb` | Data checks, exploratory data analysis, preprocessing, feature engineering, first model comparison, hold-out test, subgroup check and SHAP |
-| `notebooks/02_results_for_article_with_outputs.ipynb` | The notebook that produced the tables and figures in the research article (saved **with** its outputs) |
+| `01_EDA_and_initial_models.ipynb` | Data checks, exploratory data analysis, preprocessing, feature engineering, first model comparison, hold-out test, subgroup check and SHAP |
+| `02_results_for_article_with_outputs.ipynb` | The notebook that produced the tables and figures in the research article (saved **with** its outputs) |
 | `app.py` | Streamlit web app (Step 1: clinical measurements → risk; Step 2: face scan) |
 | `synthetic_diabetes_dataset.xlsx` | Dataset: 500 synthetic patients. Sheet **Patient Data** holds the data, sheet **Notes** describes the columns |
 | `requirements.txt` | Python packages for the web app |
