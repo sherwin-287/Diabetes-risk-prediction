@@ -23,6 +23,20 @@ model with SHAP, and includes a small Streamlit prototype (risk calculator plus 
 | `requirements.txt` | Python packages for the web app |
 | `requirements-notebooks.txt` | Python packages for running the notebooks on your own computer (Colab installs what it needs) |
 
+## Screenshots
+
+### Streamlit app
+
+![Step 1: clinical risk calculator](images/app_step1.png)
+
+![Step 2: experimental face scan](images/app_step2.png)
+
+### Model results
+
+![Cross-validated model comparison](images/fig4_cv_comparison.png)
+
+![SHAP feature importance](images/fig7a_shap_summary.png)
+
 ### Dataset
 - 500 patients, 186 diabetic (37.2%) and 314 non-diabetic (62.8%).
 - Columns: `Patient_ID`, `Age`, `Height_cm`, `Weight_kg`, `BMI`, `Blood_Pressure` (diastolic), `Insulin`,
