@@ -27,7 +27,7 @@ model with SHAP, and includes a small Streamlit prototype (risk calculator plus 
 
 ### Streamlit app
 
-![Step 1: clinical risk calculator](images/app_step1.png)
+![Step 1: clinical risk calculator](app_step1.png)
 
 ![Step 2: experimental face scan](images/app_step2.png)
 
