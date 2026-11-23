@@ -76,7 +76,7 @@ The data is synthetic, so these results do not establish clinical validity.
 
 ### A. Notebooks in Google Colab (recommended)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sherwin-287/Diabetes-risk-prediction/blob/main/01_EDA_and_initial_models.ipynb) 01: EDA and initial models
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sherwin-287/Diabetes-risk-prediction/blob/main/01_EDA_and_initial_models-2.ipynb) 01: EDA and initial models
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sherwin-287/Diabetes-risk-prediction/blob/main/02_results_for_article_with_outputs.ipynb) 02: Results for the article
 
